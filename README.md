@@ -25,7 +25,7 @@ por utilizar este dataset, por ele ser mais completo e parte do desafio proposto
 
 <h2>Requisitos</h2>
 <h3>VScode</h3>
-  !![Captura de tela de 2024-10-03 00-14-13](https://github.com/user-attachments/assets/54566591-0cde-4cb1-a22f-7967af716161)
+  ![Vscode][file:///home/alexander/Imagens/Capturas%20de%20tela/Captura%20de%20tela%20de%202024-10-03%2000-14-13.png]
 
 
   <p>A IDLE mais famosa dos programadores, neste projeto iremo utilizar ela, por ter a sua facilidade com extensões que vai ajudar nós, durante esta trajetória</p>
