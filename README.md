@@ -31,6 +31,9 @@
  <a href=https://docs.docker.com/desktop/install/mac-install/>Mac</a>
  <br>
 
+ <h3>Instalando Github</h3>
+ <p>Para que você consiga baixar a nossa aplicação, é necessario que você utilize o famoso </p>
+https://github.com/git-guides/install-git
  <h3>Instalando VSCode</h3>
 <p>A IDE utilizada neste projeto é o "VSCode", por ser uma IDE mais interativa com a nossa aplicação e suas extensões. Mas você pode utilizar outra IDE de sua escolha.</p>
  <a href=https://code.visualstudio.com/download> Windows</a>
@@ -42,3 +45,6 @@
 <p>Após seguir o tutorial de instalação do Docker e do VSCode, você vai na coluna a esquerda do seu VSCode e clique na opção "Extensions" e digite "Docker"</p>
 
    ![docker](https://brianchristner.io/content/images/2019/03/vs-code-docker-2.png)
+<p>Logo em seguida você "Instala" esta extensão para que possa facilitar o teste da nossa aplicação. Agora com o "VSCode" instalado e o "Docker", vamos por a mão na massa</p>
+<p>Inicie o "Docker" clicando no incone na area de trabalho, após ele aberto você pode abrir o seu "VSCODE" e ir em "File" e deṕois clicar na opção "Open Folder" e selecionar a pasta do nosso projeto que você descompactou.
+   
