@@ -1,4 +1,4 @@
-<h1 align="center">Call of Predict</h1>
+<h1 align="center">Predict API</h1>
 
 <h2>Descrição</h2>
 <p>Este projeto é um case de solução proposto pela XP Inc. Nós iremos implementar uma API REST para testar um modelo de machine learning que prevê a presença de diabetes com base em características médicas dos pacientes. Optei por utilizar este dataset, por ele ser mais completo e parte do desafio proposto.</p>
@@ -90,25 +90,18 @@
       
 ![Captura de tela de 2024-10-03 07-10-12](https://github.com/user-attachments/assets/d56d9379-9e5e-4027-bfa6-72ddbb7d8715)
 
-<p>Agora e por ultimo testaremos o nosso famoso modelo e para isso, cliquei no sinal de "+ logo a cima da barra onde você coloca o link de teste ou se preferir na parte superior a esquerda, você pode clicar em "New" que uma nova aba irá abrir, após isso você pode estar colocando o seguinte link "http://localhost:8000/api/predict" e na caixa de opções do lado esquerdo, você pode estar trocando para o metodo "POST", veja que logo abaixo temos uma aba chamada "Body" clique nela e selcione a opção "Raw", apos isso no lado direito vai ter uma opção "Text", você precisa troca-lá para a opção "Json". Para testar cole o json de teste que eu disponibilizei no arquivo json.txt e clique em "Send" e veja o resultado do nosso modelo.</p>
+<p>Agora e por ultimo testaremos o nosso famoso modelo e para isso, cliquei no sinal de "+" logo a cima da barra onde você coloca o link de teste ou se preferir na parte superior a esquerda, você pode clicar em "New" que uma nova aba irá abrir, após isso você pode estar colocando o seguinte link "http://localhost:8000/api/predict" e na caixa de opções do lado esquerdo, você pode estar trocando para o metodo "POST", veja que logo abaixo temos uma aba chamada "Body" clique nela e selcione a opção "Raw", apos isso no lado direito vai ter uma opção "Text", você precisa troca-lá para a opção "Json". Para testar cole o json de teste.</p>
+
+
+    {"preg_count": 2, "glucose": 653, "blood_pressure": 15, "skin_thickness": 20, "insulin": 1, "bmi": 30.1, "diabetes_pedigree": 0.5, "age": 30}
+  
+  
+  <p> E depois clique em "Send" e veja o resultado do nosso modelo.</p>
 
 ![image](https://github.com/user-attachments/assets/8a5376ef-5ec3-4a6c-b827-1ab3dcdfc160)
 
 <br>
 
-<p>Você pode estar trocando os valores do Json para realizar mais teste e ter resultados diferentes, </p>
+<p>Sinta-se à vontade para testar o código com diferentes valores de entrada e explorar os resultados. Aproveite para entender como o modelo se comporta e fique à vontade para sugerir ou implementar melhorias. Toda contribuição é bem-vinda!</p>
 
 
-
-
-       
-
-  
-
-
-
-  
-  
-
-
-   
