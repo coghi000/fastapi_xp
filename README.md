@@ -1,7 +1,7 @@
 <h1 align="center">Predict API</h1>
 
 <h2>Descrição</h2>
-<p>Este projeto é um case de solução proposto pela XP Inc. Nós iremos implementar uma API REST para testar um modelo de machine learning que prevê a presença de diabetes com base em características médicas dos pacientes. Optei por utilizar este dataset, por ele ser mais completo e parte do desafio proposto.</p>
+<p>Este projeto é um case de solução. Nós iremos implementar uma API REST para testar um modelo de machine learning que prevê a presença de diabetes com base em características médicas dos pacientes. Optei por utilizar este dataset, por ele ser mais completo e parte do desafio proposto.</p>
 
 <p>A API será desenvolvida com FastAPI e estará disponível para receber requisições HTTP. Utilizaremos o Postman para testar as requisições e validar a funcionalidade da API.</p>
 <h2>Objetivos do Projeto</h2>
