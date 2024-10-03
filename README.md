@@ -70,7 +70,7 @@
 
   <a href=http://localhost:8888/tree?>Jupyter</a>
 
- <p>Rode o nosso notebook "codigo_diabetes", este codigo ele treina um modelo utilizando um dataset de diabetes, chamado "Pima Indians", é um dataset relativamente grande e bem legal, onde classifica pessoal com diabetes ou não, nele eu utilize o modelo de "Random Forestes", que é o mais indicado para este dataset por justamente ele criar, varios sub-conjuntos  e no final ele gera um modelo unico. Tambem estamos utilizando "GridSearch" para colocar  hiperparâmetros para maximizar o desempenho do modelo e tambem o nosso "MLFlow" para que possamos ver as predições, estado de vida, e outros status do nosso modelo e o quanto de curacia que ele tem.</p>
+ <p>Rode o nosso notebook "codigo_diabetes", este codigo ele treina um modelo utilizando um dataset de diabetes, chamado "Pima Indians", é um dataset relativamente grande e bem legal, onde classifica pessoal com diabetes ou não, nele eu utilize o modelo de "Random Foreste", que é o mais indicado para este dataset por justamente ele criar, varios sub-conjuntos  e no final ele gera um modelo unico. Tambem estamos utilizando "GridSearch" para colocar  hiperparâmetros para maximizar o desempenho do modelo e tambem o nosso "MLFlow" para que possamos ver as predições, estado de vida, e outros status do nosso modelo e o quanto de curacia que ele tem.</p>
 
  <p>Depois de criar o nosso modelo, você pode estar acessando o MLFlow e visualizar a curacia do modelo, clicando em "Diabetes" e ir na aba "Modem Metrics" e para ver mais detalhes, dos pacotes que foram instalados e o input de entrada, pode estar indo na aba "Artifacts" tambem.:</p>
  
